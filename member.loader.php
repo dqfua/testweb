@@ -1,0 +1,3 @@
+<?php
+//member loader only
+?>
