@@ -1,0 +1,13 @@
+
+.links_link2:link,.links_link2:visited,.links_link2:active {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: normal;
+}
+.links_link2:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+	font-size: 12px;
+	font-weight: normal;
+}	
