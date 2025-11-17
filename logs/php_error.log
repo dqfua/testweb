@@ -1,0 +1,6 @@
+[17-Nov-2025 05:29:41 Asia/Bangkok] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\php\ext\php_zip.dll' - The specified module could not be found.
+ in Unknown on line 0
+[17-Nov-2025 05:29:41 Asia/Bangkok] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\php\ext\php_bcmath.dll' - The specified module could not be found.
+ in Unknown on line 0
+[17-Nov-2025 05:29:41 Asia/Bangkok] PHP Warning:  Cannot open 'C:\php\extras\browscap.ini' for reading in Unknown on line 0
+[17-Nov-2025 05:29:42 Asia/Bangkok] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1264922088 bytes) in Unknown on line 0

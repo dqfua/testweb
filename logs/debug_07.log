@@ -1,0 +1,18 @@
+[2025-11-17 07:32:35]---------BEGIN---------
+[2025-11-17 07:32:35]IP : 154.215.14.112
+[2025-11-17 07:32:35]ADDRESS : /client/memberindex.php
+[2025-11-17 07:32:35]GET id : ran-kameb
+[2025-11-17 07:32:35]QUERY : SELECT MemberNum,ServerName FROM MemberInfo WHERE Reg_ShopFolder = 'ran-kameb' AND MemDelete = 0 ORDER BY MemberNum DESC
+[2025-11-17 07:32:35]----------END----------
+[2025-11-17 07:32:36]---------BEGIN---------
+[2025-11-17 07:32:36]IP : 154.215.14.112
+[2025-11-17 07:32:36]ADDRESS : /client/memberindex.php
+[2025-11-17 07:32:36]GET id : ran-kameb
+[2025-11-17 07:32:36]QUERY : SELECT MemberNum,ServerName FROM MemberInfo WHERE Reg_ShopFolder = 'ran-kameb' AND MemDelete = 0 ORDER BY MemberNum DESC
+[2025-11-17 07:32:36]----------END----------
+[2025-11-17 07:32:39]---------BEGIN---------
+[2025-11-17 07:32:39]IP : 154.215.14.112
+[2025-11-17 07:32:39]ADDRESS : /client/memberindex.php
+[2025-11-17 07:32:39]GET id : ran-kunhoo
+[2025-11-17 07:32:39]QUERY : SELECT MemberNum,ServerName FROM MemberInfo WHERE Reg_ShopFolder = 'ran-kunhoo' AND MemDelete = 0 ORDER BY MemberNum DESC
+[2025-11-17 07:32:39]----------END----------
