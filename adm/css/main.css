@@ -1,0 +1,101 @@
+.head_title {
+    width:1500px;
+    height:240px;
+    background-image: url('../../images/logobgadmin.png');
+    
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.foot_title {
+    /*
+    height:128px;
+    */
+}
+
+.main {
+    width: 1500px;
+}
+
+.main_login {
+}
+
+.main_login .edittext {
+    width:199px;
+}
+.main_password .info_success {
+    color:#99ff66;
+    border: 2px;
+}
+
+.main_database .edittext {
+    width:300px;
+}
+
+.main_truemoney .edittext {
+    width: 99px;
+}
+
+.main_sub_item .edittext {
+    width: 139px;
+}
+
+/* report zone */
+.main_report_show{
+    
+}
+.main_report_show .show_small {
+    
+}
+.main_report_show .show_small .show_small_table {
+    border:#333 dashed 3px;
+}
+
+/* give item zone */
+.main_giveitem_itemlist{
+    width:299px;
+}
+
+span.info {
+    display:block;
+    margin:15px 0;
+    padding:10px 10px 10px 65px;
+    background: no-repeat scroll 10px 50% #D8E5F8;
+    border-bottom:3px solid #629DE3;
+    border-top:3px solid #629DE3;
+    color:#0055BB;
+}
+
+span.info_err {
+    display:block;
+    margin:15px 0;
+    padding:10px 10px 10px 65px;
+    background: no-repeat scroll 10px 50% #FE2E2E;
+    border-bottom:3px solid #8A0808;
+    border-top:3px solid #8A0808;
+    color:#FBEFEF;
+}
+
+<!-- CSS goes in the document HEAD or added to your external stylesheet -->
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #000;
+}
